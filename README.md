@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gk546
 - 👀 I’m interested in computer coding.
-- 🌱 I’m currently learning C/C++, Python, Java.
+- 🌱 I’m currently learning C/C++, Python, Java, SQL.
 - 📫 How to reach me at gkumar09282002@gmail.com
 
 <!---
